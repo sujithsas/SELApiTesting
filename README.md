@@ -1,4 +1,4 @@
-# SELAPITEST
+# SEL API TEST
 
 This Project is created for Testing the api created in selassetdetailapi Poject.
 
